@@ -46,15 +46,15 @@ A platform to track and discover free games across Steam and Epic Games Store.
 
 ---
 
-## 💼 What I Do at Work
+## 💼 At My Current Job
 
-I build full stack solutions on top of WordPress — not themes, but real software:
+In my current role I don't just write code — I design and build entire systems from scratch, in production, for a real e-commerce business:
 
-- **Custom plugin development** with modular architecture (Controllers, Services, Repositories, Renderers)
-- **Financial automation** — billing engines, real-time KPI dashboards, payment gateway integrations (Eupago/Multibanco/MB Way)
-- **Affiliate systems** — commission calculation, click tracking, period filtering, Excel exports
-- **Stock analysis tools** — lot management, break-even calculations, cost distribution
-- **WooCommerce extensions** — custom product flows, variation handling, cart logic
+- **Custom WooCommerce store** — built entirely from scratch with a fully custom child theme, designed and developed by me
+- **Affiliate management system** — commission tracking, click attribution, affiliate portal, period filtering and Excel exports
+- **Billing system** — calculates real-time revenue for the store, website and affiliates separately; includes an event sales recorder that registers in-person sales, automatically deducts stock and updates revenue counters in real time
+- **Stock analysis & sustainability system** — lot management, break-even calculation per unit, cost distribution and sustainability metrics *(in active development)*
+- **Smart Packs system** — custom WooCommerce extension for product bundle flows with dynamic variation handling and pricing logic
 
 Everything ships to production. Everything has to work.
 
