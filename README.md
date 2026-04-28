@@ -33,7 +33,7 @@ A standalone affiliate management platform, born from a production WordPress plu
 - Affiliate portal with click and conversion analytics
 - Excel report generation
 
-### Analyts — Java (Spring Boot) + React
+### [AnalytsFinance](https://github.com/RebecaEvelyn/AnalytsFinance) — Java (Spring Boot) + React
 A stock analysis and financial intelligence platform — break-even calculation, sustainability metrics, lot management.
 - Complex financial calculation engine
 - Real-time stock analytics dashboard
